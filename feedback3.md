@@ -10,7 +10,7 @@ Donc ça ne marche pas.
 **Attention** même si tu passes le bon paramètres dans ton for() il ne sera pas pour autant itérable, tu vas devoir **utiliser** quelques feintes (comme on dit chez nous => sud-est :))
 
 - Object.keys(onCard)
-- ou un onCard.map()
+- ou un oneCard.map()
 - ou d'autres solutions.
 
 bien entendu, il va falloir changer toutes les références que tu fais dans ta boucle for() à card pour singleCard.
