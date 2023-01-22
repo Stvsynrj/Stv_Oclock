@@ -78,9 +78,12 @@ Pour celui-ci ce qui est dommage, c'est que si on veut chercher une carte par un
 
 #### 4. L'UX
 
-- L'ajout et suppréssio-n de carte, pour l'utilisateur, il serait agréable d'avoir une alert (c'est pas top, une modal serait la classe internationnale) mais un petit "Voulez-vous ajouter cette carte à votre deck ?" et "Voulez-vous retirer cette carte de votre deck ?" serait un plus.
+- L'ajout et suppréssion de carte, pour l'utilisateur, il serait agréable d'avoir une alert (c'est pas top, une modal serait la classe internationnale) mais un petit "Voulez-vous ajouter cette carte à votre deck ?" et "Voulez-vous retirer cette carte de votre deck ?" serait un plus.
 - Un autre point, la frontière entre le deck plein et/ou l'ajout d'une carte déjà existante dans le deck n'est pas claire, il faudrait bien informer l'utilisateur différemment pour ces 2 cas. ex: 'Votre deck contient déjà 5 cartes' et 'Cette carte est déjà dans votre deck'.
+- Dans les axes d'amélioration, il faudrait pouvoir avoir plusieurs decks, et pouvoir les sauvegarder, et les charger. On pourrait imaginer un système de login, et de sauvegarde de deck par utilisateur. On pourrait aussi imaginer un système de partage de deck, mais ça c'est plus compliqué et c'est pas pour tout de suite... on aurait des relations User -> Deck -> Cartes, et on aurait des relations Deck -> User (pour les partages).
 
 Voila, Anthony, je pense avoir fait le tour (plus ou moins), je pense que l'on aura pas mal de choses à voir ensemble la prochaine fois. Et encore bravo pour ton avancée pendant cette periode festive ! En te souhaitant encore mes meilleurs voeux pour cette année.
+
+Continue comme ça, tu es sur la bonne voie, on va finir sur Steam :D :D :D
 
 Steve.
